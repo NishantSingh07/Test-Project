@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/Users/ZSINNIS/eclipse-workspace/Test-Project/src/main/java/com/main/pk/TestNG.java(failed)">
+    <classes>
+      <class name="com.automtion.test.TestName">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="LoginTest"/>
+          <include name="HomePageTest"/>
+        </methods>
+      </class> <!-- com.automtion.test.TestName -->
+    </classes>
+  </test> <!-- C:/Users/ZSINNIS/eclipse-workspace/Test-Project/src/main/java/com/main/pk/TestNG.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

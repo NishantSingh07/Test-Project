@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/ZSINNIS/eclipse-workspace/Test-Project/src/test/java/com/automtion/test/TestName.java"><classes><class name="com.automtion.test.TestName"><methods><include name="LoginTest"/><include name="HomePageTest"/></methods></class></classes></test></suite>
